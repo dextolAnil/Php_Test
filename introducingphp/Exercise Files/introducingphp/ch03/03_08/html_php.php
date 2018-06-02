@@ -1,4 +1,4 @@
-<?php $member = 0; ?>
+<?php $member = 1; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
