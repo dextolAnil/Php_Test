@@ -33,6 +33,7 @@ if ($member) :
         </ul>
         <p>Aliquid cum ex expedita illum ipsa maxime, minus, natus nihil officia praesentium quas, quisquam ratione sapiente. Aliquid animi beatae fugit in magnam necessitatibus, nihil nobis quod repudiandae saepe. Similique, ullam?</p>
     </section>
+    <?php endif?>
 
     <footer class="both">
         <p>&copy; 2015 Nonesuch Club</p>
