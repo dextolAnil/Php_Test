@@ -38,11 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html_php.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="html_php.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/html_php.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../w_A_D4/api/application/config/database.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="453">
+              <caret line="79" column="28" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -65,6 +74,7 @@
         <option value="$PROJECT_DIR$/Exercise Files/introducingphp/ch02/02_03/display_values_end.php" />
         <option value="$PROJECT_DIR$/Exercise Files/introducingphp/ch02/02_03/variables.php" />
         <option value="$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/html_php.php" />
+        <option value="$PROJECT_DIR$/../../w_A_D4/api/application/config/database.php" />
       </list>
     </option>
   </component>
@@ -80,7 +90,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="20" />
     <option name="y" value="43" />
     <option name="width" value="1400" />
@@ -158,12 +168,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527883084895</updated>
       <workItem from="1527883086993" duration="773000" />
-      <workItem from="1527920476128" duration="1984000" />
+      <workItem from="1527920476128" duration="2313000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2757000" />
+    <option name="totallyTimeSpent" value="3086000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -257,6 +267,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../w_A_D4/api/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="79" column="28" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
         </state>
       </provider>
     </entry>
