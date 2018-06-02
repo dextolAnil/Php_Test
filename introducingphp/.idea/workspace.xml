@@ -11,29 +11,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config_end.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch01/01_01/config_end.php">
+      <file leaf-file-name="different.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/different.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state>
+              <caret selection-end-line="50" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="display_values_end.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch02/02_03/display_values_end.php">
+      <file leaf-file-name="different_css.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/different_css.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="variables.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch02/02_03/variables.php">
+      <file leaf-file-name="different_end.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/different_end.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="210">
+              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="html_php.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/html_php.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="10" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -46,6 +64,7 @@
         <option value="$PROJECT_DIR$/Exercise Files/introducingphp/ch01/01_01/config_end.php" />
         <option value="$PROJECT_DIR$/Exercise Files/introducingphp/ch02/02_03/display_values_end.php" />
         <option value="$PROJECT_DIR$/Exercise Files/introducingphp/ch02/02_03/variables.php" />
+        <option value="$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/html_php.php" />
       </list>
     </option>
   </component>
@@ -96,15 +115,15 @@
               <item name="introducingphp" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
               <item name="introducingphp" type="462c0819:PsiDirectoryNode" />
-              <item name="ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="introducingphp" type="b2602c69:ProjectViewProjectNode" />
               <item name="introducingphp" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
               <item name="introducingphp" type="462c0819:PsiDirectoryNode" />
-              <item name="ch02" type="462c0819:PsiDirectoryNode" />
-              <item name="02_03" type="462c0819:PsiDirectoryNode" />
+              <item name="ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_08" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,12 +158,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527883084895</updated>
       <workItem from="1527883086993" duration="773000" />
-      <workItem from="1527920476128" duration="113000" />
+      <workItem from="1527920476128" duration="1403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="886000" />
+    <option name="totallyTimeSpent" value="2176000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -203,6 +222,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/different_css.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="10" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/different.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/different_end.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/introducingphp/ch03/03_08/html_php.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
         </state>
       </provider>
     </entry>
